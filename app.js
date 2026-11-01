@@ -1,50 +1,50 @@
 // // // chapter 1
 
-// // // alert("Welcome to our website!");
-// // // alert("Error! Please enter a valid password.");
-// // // alert("Hello!\nWelcome to our website.");
-// // // alert("welcome to js land")
-// // // alert("happy coding! \n prevent this page from ")
-// // // console.log("hello .. I can run js through my web browser");
+alert("Welcome to our website!");
+alert("Error! Please enter a valid password.");
+alert("Hello!\nWelcome to our website.");
+alert("welcome to js land")
+alert("happy coding! \n prevent this page from ")
+console.log("hello .. I can run js through my web browser");
 
 
 
-// // // chapter 2 
+// // chapter 2 
 
-// // var  username =""         
-// // console.log(username)
-// // var myname ="haseeb"
-// // console.log(myname)
-// // var message;message ="hello world"
-// // alert(message)
-// // console.log (message)
-// // var pizza ="PIZZA\nPIZZ\nPIZ\nPI"
-// // alert(pizza)
-// // var email ="hm8872018@gmail.com"
-// // alert(email)
-// // var book ="a smarter way to learn java script"
-// // alert(book)
-// // document.write("yah i can write html content")
-// // var design = "_________________&&________________"
-// // alert(design)
-// // document.write(design)
+var  username =""         
+console.log(username)
+var myname ="haseeb"
+console.log(myname)
+var message;message ="hello world"
+alert(message)
+console.log (message)
+var pizza ="PIZZA\nPIZZ\nPIZ\nPI"
+alert(pizza)
+var email ="hm8872018@gmail.com"
+alert(email)
+var book ="a smarter way to learn java script"
+alert(book)
+document.write("yah i can write html content")
+var design = "_________________&&________________"
+alert(design)
+document.write(design)
 
 
-// // chapter 3
+// chapter 3
 
-// var age =17;
-// alert("I am " + age +"years old")
-// var visit ="14"
-// alert("you have visited this app" + visit + "times")
-// var birthyear =2009
-// document.write("my birth year is 2009" + "<br>");
-// document.write("data type of my declared varable is " + typeof birthyear+ "<br><br>")
-// var visitor = "haseeb";
-// var product = "T-shirt";
-// var quantity = 5;
+var age =17;
+alert("I am " + age +"years old")
+var visit ="14"
+alert("you have visited this app" + visit + "times")
+var birthyear =2009
+document.write("my birth year is 2009" + "<br>");
+document.write("data type of my declared varable is " + typeof birthyear+ "<br><br>")
+var visitor = "haseeb";
+var product = "T-shirt";
+var quantity = 5;
 
-// document.write(  visitor + " ordered "+ quantity + " " + product +
-//    " (s)on xyz clothung store");
+document.write(  visitor + " ordered "+ quantity + " " + product +
+   " (s)on xyz clothung store");
 
 
 
